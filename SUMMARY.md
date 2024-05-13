@@ -3,7 +3,8 @@
 ## WELCOME
 
 * [ℹ️ About Moss](README.md)
-  * [What is Moss](welcome/about-moss/what-is-moss.md)
+  * [Modular wallets](welcome/about-moss/modular-wallets.md)
+  * [Own Dapp](welcome/about-moss/own-dapp.md)
   * [What can Moss do?](welcome/about-moss/what-can-moss-do.md)
   * [Moss visions](welcome/about-moss/moss-visions.md)
 * [📚 Fundamental Concepts](welcome/fundamental-concepts/README.md)

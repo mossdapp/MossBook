@@ -1,6 +1,6 @@
-# What is Moss
+# Own Dapp
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:1155/1*Qv66ybVpPKfaGNzo7Hr6sA.png" alt="" height="394" width="700"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Moss is a revolutionary Super Dapp that addresses several key challenges in the blockchain ecosystem. It allows users to have greater control and ownership over their assets, data, and decentralized applications (Dapps).
 
