@@ -1,4 +1,4 @@
-# SNIP-62: A standard interface for manage modular Own Dapp
+# SNIP: A standard interface for manage modular Own Dapp
 
 ### Simple Summary
 
@@ -6,7 +6,7 @@ A standard interface for manage modular Own Dapp.
 
 ### Abstract
 
-This SNRC is a system for manageing modular Own Dapps, also known as Supper Dapp. The Supper Dapp manages all Own Dapps without a limit on the number. Here, Own Dapp refers to a code logic that is declared. Own Dapps can share storage among themselves.
+This SNRC is a system for manageing modular Own Dapps. Manages all Own Dapps without a limit on the number. Here, Own Dapp refers to a code logic that is declared. Own Dapps can share storage among themselves.
 
 ### Motivation
 
@@ -14,8 +14,8 @@ This SNRC is a system for manageing modular Own Dapps, also known as Supper Dapp
 2. This proposal can be based on the Standard Account Interface SNIP-5, allowing each user to truly own their Own Dapp (e.g., Own NFT market, dex, inheritance, asset management, etc.).
 3. Shared storage for Own Dapps and reusable logic, offering stronger composability.
 4. Provide the ability to enable or disable one or more Own Dapps.
-5. Own Dapps can be developed progressively, allowing your Supper Dapp to grow continuously.
-6. Supper Dapp modularly manages Own Dapps, and adding new Own Dapps does not require upgrading the smart contract.
+5. Own Dapps can be developed progressively, allowing your to grow continuously.
+6. Modularly manages Own Dapps, and adding new Own Dapps does not require upgrading the smart contract.
 7. Direct support for some of the currently declared Dapp smart contracts.
 
 #### Storage among different Own Dapps
@@ -51,12 +51,12 @@ flowchart TD
     LogicA--> DataA
 ```
 
-#### External accounts call Supper Dapp’s Own Dapp logic
+#### External accounts call Own Dapp logic
 
 ```mermaid
 flowchart TD
     
-    subgraph Supper Dapp A
+    subgraph Dapp Manage A
 			  StateA
 			  StateC
 			  StateD

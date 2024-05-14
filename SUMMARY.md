@@ -4,9 +4,9 @@
 
 * [ℹ️ About Moss](README.md)
   * [Modular wallets](welcome/about-moss/modular-wallets.md)
+  * [Native Passkey](welcome/about-moss/native-passkey.md)
   * [Own Dapp](welcome/about-moss/own-dapp.md)
-  * [What can Moss do?](welcome/about-moss/what-can-moss-do.md)
-  * [Moss visions](welcome/about-moss/moss-visions.md)
+  * [Own Dapp Management Layer](welcome/about-moss/own-dapp-management-layer.md)
 * [📚 Fundamental Concepts](welcome/fundamental-concepts/README.md)
   * [Account](welcome/fundamental-concepts/account.md)
   * [Wallet](welcome/fundamental-concepts/wallet.md)
@@ -16,18 +16,9 @@
 ## Moss Documentation
 
 * [💡 Moss Concept Innovation](moss-documentation/moss-concept-innovation/README.md)
-  * [Own Dapp](moss-documentation/moss-concept-innovation/own-dapp.md)
-  * [Wallet Abstract](moss-documentation/moss-concept-innovation/wallet-abstract.md)
-  * [Dapp Store and Super Dapp](moss-documentation/moss-concept-innovation/dapp-store-and-super-dapp.md)
   * [New Wallet Design](moss-documentation/moss-concept-innovation/new-wallet-design.md)
-  * [New Wallet Protocol](moss-documentation/moss-concept-innovation/new-wallet-protocol.md)
   * [New Token Design](moss-documentation/moss-concept-innovation/new-token-design.md)
-  * [New Token Protocol](moss-documentation/moss-concept-innovation/new-token-protocol.md)
-* [🏗️ Asset Interaction Architecture](moss-documentation/asset-interaction-architecture/README.md)
-  * [Asset Interaction](moss-documentation/asset-interaction-architecture/asset-interaction.md)
-  * [Active Asset Transfer](moss-documentation/asset-interaction-architecture/active-asset-transfer.md)
-  * [Authorized Asset Extraction](moss-documentation/asset-interaction-architecture/authorized-asset-extraction.md)
-  * [Asset Exchange](moss-documentation/asset-interaction-architecture/asset-exchange.md)
+* [🏗️ Asset Interaction Architecture](moss-documentation/asset-interaction-architecture.md)
 * [🔐 Moss Security](moss-documentation/moss-security/README.md)
   * [Technology](moss-documentation/moss-security/technology.md)
 
@@ -38,7 +29,7 @@
   * [ERC-7204: Contract wallet management token](developers/moss-protocols/erc-7204-contract-wallet-management-token.md)
   * [ERC-7561: Simple NFT, Simplified ERC-721](developers/moss-protocols/erc-7561-simple-nft-simplified-erc-721.md)
   * [ERC-7564: Contract wallet management NFT](developers/moss-protocols/erc-7564-contract-wallet-management-nft.md)
-  * [SNIP-62: A standard interface for manage modular Own Dapp](developers/moss-protocols/snip-62-a-standard-interface-for-manage-modular-own-dapp.md)
+  * [SNIP: A standard interface for manage modular Own Dapp](developers/moss-protocols/snip-a-standard-interface-for-manage-modular-own-dapp.md)
 * [📱 Own Dapp Development](developers/own-dapp-development.md)
 * [®️ Dapp Store Regulation](developers/dapp-store-regulation.md)
 
