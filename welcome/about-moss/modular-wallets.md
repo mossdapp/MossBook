@@ -15,7 +15,7 @@ The main features are divided into four layers:
     Users manage their applications independently and can freely choose the Own Dapps they need.
 *   **Own Dapp Logic Layer**
 
-    The specific application logic is an independent contract address (known as Classhash on StarkNet), which only allows the implementation of code logic and prohibits any state storage.
+    The specific application logic is an independent contract address, which only allows the implementation of code logic and prohibits any state storage.
 
 Existing contract wallets have only implemented the first two functionalities and cannot extend any application.
 
