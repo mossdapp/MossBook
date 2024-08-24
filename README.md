@@ -1,8 +1,6 @@
 # ℹ️ About Moss
 
-**Moss** is a modular smart contract wallet. Moss's **native passkey** greatly simplifies user operations and improves security, while Moss' **Own Dapp** allows anyone to easily launch their own applications.
-
-Moss supports the next-generation scalable wallet architecture—**modular smart contract wallets**.
+Everyone considers wallets as the gateway to the Web3 world, allowing access to various external dapps. However, the Moss team views wallets not merely as gateways, At the same time, the wallet itself is the container of dapp. Moss is the first project to introduce the concept of Own Dapp, enabling every user to have their own dapp.
 
 From an account perspective, Moss supports native passkey accounts that do not require users to download mobile apps, install extensions, or use mnemonic phrases. It is based on biometrics or hardware security modules, making it safer and more convenient.
 

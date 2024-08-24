@@ -1,6 +1,6 @@
 # Modular wallets
 
-Everyone considers wallets as the gateway to the Web3 world, allowing access to various external dapps. However, the Moss team views wallets not merely as gateways, At the same time, the wallet itself is the container of dapp. Moss is the first project to introduce the concept of Own Dapp, enabling every user to have their own dapp. Based on this, Moss defines modular smart contract wallets as follows:
+Moss defines modular smart contract wallets as follows:
 
 The main features are divided into four layers:
 
